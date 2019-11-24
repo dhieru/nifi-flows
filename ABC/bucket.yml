@@ -1,7 +1,7 @@
 flows:
-  09988389-140b-4c8c-90bc-ef2ec576dc21: {ver: 1, file: First_NiFi_Registry_Git_version_flow.snapshot,
-    comments: 'First NiFi Registry Git version flow, first commit', author: 'CN=sys_admin,
-      OU=NIFI', created: 1574627680311, flowName: First NiFi Registry Git version
-      flow, flowDesc: First NiFi Registry Git version flow}
+  09988389-140b-4c8c-90bc-ef2ec576dc21: {ver: 2, file: First_NiFi_Registry_Git_version_flow.snapshot,
+    comments: This second commit, author: 'CN=sys_admin, OU=NIFI', created: 1574629244436,
+    flowName: First NiFi Registry Git version flow, flowDesc: First NiFi Registry
+      Git version flow}
 layoutVer: 1
 bucketId: 2e88e1cd-47f0-49d1-bafb-a18d8e9fcf5a
